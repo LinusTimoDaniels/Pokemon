@@ -1,0 +1,710 @@
+Budew
+001/187
+
+Leafeon
+002/187
+
+Leafeon ex
+003/187
+
+Cottonee
+004/187
+
+Whimsicott
+005/187
+
+Grookey
+006/187
+
+Thwackey
+007/187
+
+Applin
+008/187
+
+Dipplin
+009/187
+
+Hydrapple ex
+010/187
+
+Bramblin
+011/187
+
+Brambleghast
+012/187
+
+Rellor
+013/187
+
+Rabsca
+014/187
+
+Wo-Chien
+015/187
+
+Iron Leaves ex
+016/187
+
+Poltchageist
+017/187
+
+Sinistcha
+018/187
+
+Sinistcha ex
+019/187
+
+Teal Mask Ogerpon ex
+020/187
+
+Flareon
+021/187
+
+Flareon ex
+022/187
+
+Charcadet
+023/187
+
+Iron Moth
+024/187
+
+Chi-Yu
+025/187
+
+Hearthflame Mask Ogerpon ex
+026/187
+
+Gouging  ex
+027/187
+
+Goldeen
+028/187
+
+Seaking
+029/187
+
+Vaporeon
+030/187
+
+Vaporeon ex
+031/187
+
+Totodile
+032/187
+
+Croconaw
+033/187
+
+Feraligatr
+034/187
+
+Feebas
+035/187
+
+Milotic
+036/187
+
+Snorunt
+037/187
+
+Froslass
+038/187
+
+Garchomp ex
+039/187
+
+Glaceon
+040/187
+
+Glaceon ex
+041/187
+
+Wiglett
+042/187
+
+Wugtrio
+043/187
+
+Finizen
+044/187
+
+Palafin
+045/187
+
+Palafin ex
+046/187
+
+Iron Bundle
+047/187
+
+Chien-Pao
+048/187
+
+Walking Wake ex
+049/187
+
+Wellspring Mask Ogerpon ex
+050/187
+
+Jolteon
+051/187
+
+Jolteon ex
+052/187
+
+Zeraora
+053/187
+
+Iron Hands ex
+054/187
+
+Iron Thorns
+055/187
+
+Iron Thorns ex
+056/187
+
+Abra
+057/187
+
+Kadabra
+058/187
+
+Alakazam
+059/187
+
+Natu
+060/187
+
+Xatu
+061/187
+
+Espeon
+062/187
+
+Espeon ex
+063/187
+
+Duskull
+064/187
+
+Dusclops
+065/187
+
+Dusknoir
+066/187
+
+Swirlix
+067/187
+
+Sylveon
+068/187
+
+Sylveon ex
+069/187
+
+Ceruledge
+070/187
+
+Scream Tail
+071/187
+
+Flutter Mane
+072/187
+
+Gimmighoul
+073/187
+
+Iron Valiant ex
+074/187
+
+Munkidori
+075/187
+
+Fezandipiti
+076/187
+
+Iron Boulder
+077/187
+
+Iron Crown ex
+078/187
+
+Relicanth
+079/187
+
+Groudon
+080/187
+
+Gible
+081/187
+
+Gabite
+082/187
+
+Drilbur
+083/187
+
+Hawlucha
+084/187
+
+Bloodmoon Ursaluna
+085/187
+
+Great Tusk
+086/187
+
+Slither Wing
+087/187
+
+Sandy Shocks ex
+088/187
+
+Ting-Lu
+089/187
+
+Okidogi
+090/187
+
+Cornerstone Mask Ogerpon ex
+091/187
+
+Umbreon
+092/187
+
+Umbreon ex
+093/187
+
+Trubbish
+094/187
+
+Garbodor
+095/187
+
+Zorua
+096/187
+
+Zoroark
+097/187
+
+Morpeko
+098/187
+
+Brute Bonnet
+099/187
+
+Roaring Moon
+100/187
+
+Roaring Moon ex
+101/187
+
+Okidogi ex
+102/187
+
+Munkidori ex
+103/187
+
+Fezandipiti ex
+104/187
+
+Pecharunt ex
+105/187
+
+Beldum
+106/187
+
+Metang
+107/187
+
+Jirachi
+108/187
+
+Honedge
+109/187
+
+Doublade
+110/187
+
+Aegislash
+111/187
+
+Duraludon
+112/187
+
+Archaludon
+113/187
+
+Varoom
+114/187
+
+Revavroom
+115/187
+
+Iron Treads
+116/187
+
+Gholdengo ex
+117/187
+
+Dreepy
+118/187
+
+Drakloak
+119/187
+
+Dragapult ex
+120/187
+
+Tatsugiri
+121/187
+
+Koraidon
+122/187
+
+Miraidon
+123/187
+
+Raging Bolt ex
+124/187
+
+Eevee
+125/187
+
+Eevee ex
+126/187
+
+Hoothoot
+127/187
+
+Noctowl
+128/187
+
+Dunsparce
+129/187
+
+Dudunsparce
+130/187
+
+Fan Rotom
+131/187
+
+Regigigas
+132/187
+
+Bouffalant
+133/187
+
+Bloodmoon Ursaluna ex
+134/187
+
+Iron Jugulis
+135/187
+
+Terapagos ex
+136/187
+
+Ogre's Mask
+137/187
+
+Enhanced Hammer
+138/187
+
+Counter Catcher
+139/187
+
+Glass Trumpet
+140/187
+
+Superior  Retrieval
+141/187
+
+Fishing Rod MAX
+142/187
+
+Earthen Vessel
+143/187
+
+Techno Radar
+144/187
+
+Tera Orb
+145/187
+
+Treasure Gadget
+146/187
+
+Buddy-Buddy Poffin
+147/187
+
+Prime Catcher
+148/187
+
+Scoop Up Cyclone
+149/187
+
+Bug Catching Set
+150/187
+
+Night Stretcher
+151/187
+
+Sparkling Crystal
+152/187
+
+Rescue Board
+153/187
+
+Binding Mochi
+154/187
+
+Luxurious Cape
+155/187
+
+Haban Berry
+156/187
+
+Ancient Booster  Capsule
+157/187
+
+Future Booster  Capsule
+158/187
+
+Maximum Belt
+159/187
+
+Technical Machine: Evolution
+160/187
+
+Technical Machine: Devolution
+161/187
+
+Larry's Efficiency
+162/187
+
+Crispin
+163/187
+
+Colress's Tenacity
+164/187
+
+Ciphermaniac's Codebreaking
+165/187
+
+Janine's Secret Art
+166/187
+
+Professor Sada's Vitality
+167/187
+
+Lana's Aid
+168/187
+
+Kieran
+169/187
+
+Carmine
+170/187
+
+Lacey
+171/187
+
+Explorer's Guidance
+172/187
+
+Amarys
+173/187
+
+Friends in Paldea
+174/187
+
+Professor Turo's Scenario
+175/187
+
+Briar
+176/187
+
+Bianca's Devotion
+177/187
+
+Morty's Conviction
+178/187
+
+Mela
+179/187
+
+Festival Grounds
+180/187
+
+Jamming Tower
+181/187
+
+Area Zero Underdepths
+182/187
+
+Moonlit Hill
+183/187
+
+Neutralization Zone
+184/187
+
+Jet 
+185/187
+
+Mist 
+186/187
+
+Legacy 
+187/187
+
+Larry's Efficiency
+188/187
+
+Ortega
+189/187
+
+Brassius
+190/187
+
+Atticus
+191/187
+
+Atticus
+192/187
+
+Tyme
+193/187
+
+Amarys
+194/187
+
+Friends in Paldea
+195/187
+
+Giacomo
+196/187
+
+Eri
+197/187
+
+Mela
+198/187
+
+Raifort
+199/187
+
+Leafeon ex
+200/187
+
+Teal Mask Ogerpon ex
+201/187
+
+Flareon ex
+202/187
+
+Ceruledge ex
+203/187
+
+Hearthflame Mask Ogerpon ex
+204/187
+
+Vaporeon ex
+205/187
+
+Glaceon ex
+206/187
+
+Palafin ex
+207/187
+
+Wellspring Mask Ogerpon ex
+208/187
+
+Jolteon ex
+209/187
+
+Iron Hands ex
+210/187
+
+Espeon ex
+211/187
+
+Sylveon ex
+212/187
+
+Iron Valiant ex
+213/187
+
+Iron Crown ex
+214/187
+
+Sandy Shocks ex
+215/187
+
+Cornerstone Mask Ogerpon ex
+216/187
+
+Umbreon ex
+217/187
+
+Roaring Moon ex
+218/187
+
+Pecharunt ex
+219/187
+
+Gholdengo ex
+220/187
+
+Dragapult ex
+221/187
+
+Raging Bolt ex
+222/187
+
+Eevee ex
+223/187
+
+Eevee ex
+224/187
+
+Bloodmoon Ursaluna ex
+225/187
+
+Terapagos ex
+226/187
+
+Crispin
+227/187
+
+Janine's Secret Art
+228/187
+
+Drayton
+229/187
+
+Kieran
+230/187
+
+Lacey
+231/187
+
+Amarys
+232/187
+
+Iron Leaves ex
+233/187
+
+Teal Mask Ogerpon ex
+234/187
+
+Walking Wake ex
+235/187
+
+Pikachu ex
+236/187
+
+Terapagos ex
+237/187

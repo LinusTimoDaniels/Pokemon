@@ -1,0 +1,129 @@
+{
+    "DoubleCards": {
+      "Trainer": {
+        "182": {"name": "Friends in Paldea", "quantity": 1},
+        "181": {"name": "Treasure-Hunting Gadget", "quantity": 1},
+        "180": {"name": "Amarys", "quantity": 1},
+        "179": {"name": "Iono", "quantity": 1},
+        "178": {"name": "Nemona", "quantity": 1},
+        "175": {"name": "Clavell", "quantity": 1},
+        "174": {"name": "Jacq", "quantity": 1},
+        "173": {"name": "Miriam", "quantity": 1},
+        "168": {"name": "Arven", "quantity": 1},
+        "167": {"name": "Penny", "quantity": 1},
+        "165": {"name": "Grusha", "quantity": 1},
+        "164": {"name": "Katy", "quantity": 1},
+        "163": {"name": "Brassius", "quantity": 1},
+        "161": {"name": "Kofu", "quantity": 1},
+        "160": {"name": "Larry", "quantity": 1},
+        "158": {"name": "Ryme", "quantity": 1},
+        "157": {"name": "Tulip", "quantity": 1},
+        "155": {"name": "Poppy", "quantity": 1},
+        "154": {"name": "Rika", "quantity": 1},
+        "153": {"name": "Geeta", "quantity": 1},
+        "150": {"name": "Dendra", "quantity": 1},
+        "147": {"name": "Saguaro", "quantity": 1},
+        "140": {"name": "Sada", "quantity": 1},
+        "139": {"name": "Turo", "quantity": 1},
+        "137": {"name": "Clive", "quantity": 1}
+      },
+      "Colorless": {
+        "135": {"name": "Regigigas", "quantity": 1},
+        "132": {"name": "Snorlax", "quantity": 1},
+        "131": {"name": "Eevee", "quantity": 1},
+        "130": {"name": "Ditto", "quantity": 2},
+        "129": {"name": "Chansey", "quantity": 1},
+        "128": {"name": "Blissey", "quantity": 1},
+        "127": {"name": "Happiny", "quantity": 1},
+        "125": {"name": "Porygon-Z", "quantity": 1}
+      },
+      "Dragon": {
+        "123": {"name": "Garchomp ex", "quantity": 2},
+        "119": {"name": "Dratini", "quantity": 1},
+        "118": {"name": "Dragonite ex", "quantity": 2}
+      },
+      "Metal": {
+        "116": {"name": "Bronzong", "quantity": 1},
+        "115": {"name": "Bronzor", "quantity": 1},
+        "114": {"name": "Corviknight ex", "quantity": 2},
+        "113": {"name": "Corvisquire", "quantity": 1},
+        "112": {"name": "Rookidee", "quantity": 1},
+        "109": {"name": "Perrserker", "quantity": 1},
+        "108": {"name": "Meowth", "quantity": 1},
+        "107": {"name": "Lucario ex", "quantity": 2},
+        "106": {"name": "Riolu", "quantity": 1}
+      },
+      "Dark": {
+        "104": {"name": "Umbreon ex", "quantity": 1},
+        "103": {"name": "Umbreon", "quantity": 1},
+        "101": {"name": "Murkrow", "quantity": 1},
+        "100": {"name": "Honchkrow", "quantity": 1},
+        "96": {"name": "Sableye", "quantity": 2},
+        "95": {"name": "Absol", "quantity": 1},
+        "94": {"name": "Zoroark", "quantity": 2},
+        "92": {"name": "Darkrai", "quantity": 1}
+      },
+      "Fighting": {
+        "91": {"name": "Machamp ex", "quantity": 1},
+        "90": {"name": "Machoke", "quantity": 1},
+        "89": {"name": "Machop", "quantity": 1},
+        "85": {"name": "Lycanroc", "quantity": 1},
+        "83": {"name": "Sandaconda", "quantity": 2},
+        "82": {"name": "Silicobra", "quantity": 2},
+        "81": {"name": "Diglett", "quantity": 1}
+      },
+      "Psychic": {
+        "77": {"name": "Mewtwo ex", "quantity": 1},
+        "73": {"name": "Gardevoir ex", "quantity": 2},
+        "72": {"name": "Kirlia", "quantity": 1},
+        "70": {"name": "Ralts", "quantity": 1},
+        "68": {"name": "Mimikyu", "quantity": 1},
+        "67": {"name": "Hatterene ex", "quantity": 2},
+        "66": {"name": "Hattrem", "quantity": 1},
+        "65": {"name": "Hatenna", "quantity": 2},
+        "64": {"name": "Gothitelle", "quantity": 1},
+        "63": {"name": "Gothorita", "quantity": 1},
+        "62": {"name": "Gothita", "quantity": 1},
+        "58": {"name": "Espurr", "quantity": 1},
+        "57": {"name": "Meowstic", "quantity": 1}
+      },
+      "Electric": {
+        "56": {"name": "Jolteon", "quantity": 1},
+        "53": {"name": "Luxray", "quantity": 1},
+        "51": {"name": "Shinx", "quantity": 1}
+      },
+      "Water": {
+        "48": {"name": "Chien-Pao", "quantity": 1},
+        "47": {"name": "Iron Bundle", "quantity": 1},
+        "46": {"name": "Palafin ex", "quantity": 1},
+        "45": {"name": "Palafin", "quantity": 2},
+        "43": {"name": "Wugtrio", "quantity": 1},
+        "42": {"name": "Wiglett", "quantity": 2},
+        "40": {"name": "Glaceon", "quantity": 1},
+        "37": {"name": "Snorunt", "quantity": 2},
+        "34": {"name": "Feraligatr", "quantity": 1},
+        "33": {"name": "Croconaw", "quantity": 2},
+        "32": {"name": "Totodile", "quantity": 1},
+        "30": {"name": "Vaporeon", "quantity": 1},
+        "29": {"name": "Seaking", "quantity": 1},
+        "28": {"name": "Goldeen", "quantity": 2}
+      },
+      "Fire": {
+        "25": {"name": "Chi-Yu", "quantity": 2},
+        "23": {"name": "Charcadet", "quantity": 1},
+        "21": {"name": "Armarouge", "quantity": 2}
+      },
+      "Grass": {
+        "20": {"name": "Tropius", "quantity": 1},
+        "18": {"name": "Lurantis", "quantity": 1},
+        "17": {"name": "Fomantis", "quantity": 2},
+        "11": {"name": "Scovillain", "quantity": 2},
+        "9": {"name": "Leafeon", "quantity": 1},
+        "7": {"name": "Sprigatito", "quantity": 2},
+        "6": {"name": "Floragato", "quantity": 2},
+        "4": {"name": "Meowscarada ex", "quantity": 2},
+        "1": {"name": "Bulbasaur", "quantity": 2}
+      }
+    }
+  }
+  
